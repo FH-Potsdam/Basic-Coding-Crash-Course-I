@@ -18,6 +18,14 @@ __The Nature of Code__
 - [shiffman/The-Nature-of-Code-Examples-p5.js](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 - [shiffman/The-Nature-of-Code](https://github.com/shiffman/The-Nature-of-Code)  
 
+
+
+__Processing__
+
+> The visual arts are rapidly changing as media moves into the web, mobile devices, and architecture. When designers and artists learn the basics of writing software, they develop a new form of literacy that enables them to create new media for the present, and to imagine future media that are beyond the capacities of current software tools. This book introduces this new literacy by teaching computer programming within the context of the visual arts. It offers a comprehensive reference and text for Processing (www.processing.org), an open-source programming language that can be used by students, artists, designers, architects, researchers, and anyone who wants to program images, animation, and interactivity. Written by Processing’s cofounders, the book offers a definitive reference for students and professionals. Tutorial chapters make up the bulk of the book; advanced professional projects from such domains as animation, performance, and installation are discussed in interviews with their creators.  
+
+- [mitpress.mit.edu/books/processing-0](https://mitpress.mit.edu/books/processing-0)
+
 __Generative Gestaltung__  
 
 >This website completes the book Generative Design. It offers direct access to all processing source code for the software described in the book.  
@@ -28,13 +36,13 @@ __Generative Gestaltung__
 - [generative-gestaltung.de](http://www.generative-gestaltung.de/)
 - [github.com/generative-design/Code-Package-p5.js  (WORK IN PROGRESS)](https://github.com/generative-design/Code-Package-p5.js)
 
+__Input/Output (Eingabe/Ausgabe)__
 
-__Processing__
+>Fundamentals of process-oriented design.  
+>Design is increasingly dynamic and participatory. Digital, generative and interactive processes can be found in the design of digital media, communication processes and products (in production & use). In the center of the design the focus is planning, anticipating and implementing emergent systems based on natural technological and social processes. In this course the basic skills and possibilities of process-oriented design are analyzed and developed in a number of creative exercises. It is a broad overview of facets, methods and tools, as well as insights into the elementary handicraft and technical procedures and concepts of process-oriented design. An artistic and creative engagement with the corresponding technologies takes place.  
 
-> The visual arts are rapidly changing as media moves into the web, mobile devices, and architecture. When designers and artists learn the basics of writing software, they develop a new form of literacy that enables them to create new media for the present, and to imagine future media that are beyond the capacities of current software tools. This book introduces this new literacy by teaching computer programming within the context of the visual arts. It offers a comprehensive reference and text for Processing (www.processing.org), an open-source programming language that can be used by students, artists, designers, architects, researchers, and anyone who wants to program images, animation, and interactivity. Written by Processing’s cofounders, the book offers a definitive reference for students and professionals. Tutorial chapters make up the bulk of the book; advanced professional projects from such domains as animation, performance, and installation are discussed in interviews with their creators.  
-
-- [mitpress.mit.edu/books/processing-0](https://mitpress.mit.edu/books/processing-0)
-
+- [interface.fh-potsdam.de/eingabe-ausgabe](https://interface.fh-potsdam.de/eingabe-ausgabe/)  
+- [P5.js examples for the current seminar @ fh-potsdam.github.io/steel-ant-input-output](http://fh-potsdam.github.io/steel-ant-input-output/)  
 
 ## License  
 
