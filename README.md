@@ -1,7 +1,7 @@
 Basic Coding Crash Course I
 ===========================
 
-These are the examples we wrote at the BC×3 @ University of Applied Sciences Potsdam (Germany).  
+These are the examples we wrote at the BC×3I @ University of Applied Sciences Potsdam (Germany).  
 
 ## Dependencies 
 
